@@ -1,0 +1,32 @@
+.smash {
+    width: 600px;
+}
+.america {
+    width: 300px;
+}
+.B {
+    width: 300px;
+}
+.mac {
+    width: 300px;
+}
+.award {
+    font-family: 'Crete Round', serif;
+}
+.game {
+    font-family: 'Work Sans', sans-serif;
+}
+.movie {
+    font-family: 'PT Sans Caption', sans-serif;
+}
+.music {
+    font-family: 'Amiri', serif;
+}
+.food {
+    font-family: 'Kalam', cursive;
+}
+body {
+    text-align: center;
+    color: white;
+    background: black;
+}
